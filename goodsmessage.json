@@ -1,7 +1,7 @@
 {
     "id":"商品ID ",
     "title":"床",
-    "mainPicSrc":"主图的路径",    
+    "mainPicSrc":"http://nkjjq.cn/uploads/product/main_picture/5375771/normal_1.jpg",    
     "price":"420",
     "picsrc":[
         "http://nkjjq.cn/uploads/picture/file/109260/normal_1.jpg",
