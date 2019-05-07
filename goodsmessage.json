@@ -2,7 +2,7 @@
     "id":"商品ID ",
     "goodsname":"床",
     "mainPicSrc":"主图的路径",    
-    "pirce":420,
+    "pirce":"420",
     "picsrc":["多个图片路径"],
     "remain":"总库存",
     "car":{
