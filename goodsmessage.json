@@ -3,15 +3,17 @@
     "goodsname":"床",
     "mainPicSrc":"主图的路径",    
     "pirce":"420",
-    "picsrc":["多个图片路径"],
+    "picsrc":[
+        "http://nkjjq.cn/uploads/picture/file/109260/normal_1.jpg",
+        "http://nkjjq.cn/uploads/picture/file/109259/normal_1.jpg"
+    ],
     "remain":"总库存",
     "tuijianGoods":[
-        {
-            "imgSrc":"xxx",
-            "title":"大床",
-            "price":"¥1822",
-            "router":"sfa"
-        }
+        {"src":"http://nkjjq.cn/uploads/product/main_picture/5375771/normal_1.jpg",
+            "name":"床",
+            "price":"¥560"
+    
+            }
     ],
     "car":{
         "color":[
