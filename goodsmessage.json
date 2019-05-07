@@ -10,10 +10,18 @@
     "remain":"总库存",
     "tuijianGoods":[
         {"src":"http://nkjjq.cn/uploads/product/main_picture/5375771/normal_1.jpg",
-            "name":"床",
-            "price":"¥560"
+            "name":"da床",
+            "price":"¥600"
     
-            }
+        },
+        {"src":"http://nkjjq.cn/uploads/product/main_picture/5375771/normal_1.jpg",
+            "name":"床",
+            "price":"¥580"
+        },
+        {"src":"http://nkjjq.cn/uploads/product/main_picture/5375771/normal_1.jpg",
+            "name":"床",
+            "price":"¥980"
+         }
     ],
     "car":{
         "color":[
