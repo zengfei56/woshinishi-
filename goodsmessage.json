@@ -1,6 +1,6 @@
 {
     "id":"商品ID ",
-    "goodsname":"床",
+    "title":"床",
     "mainPicSrc":"主图的路径",    
     "pirce":"420",
     "picsrc":[
