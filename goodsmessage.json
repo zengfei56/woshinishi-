@@ -1,4 +1,7 @@
 {
-    "goodsname":"床"
-    
+    "goodsname":"床",
+    "pirce":420,
+    "id":" ",
+    "picsrc":["多个图片路径"],
+    "remain": "库存"
 }
