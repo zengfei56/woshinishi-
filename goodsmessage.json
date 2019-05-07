@@ -2,46 +2,7 @@
     "id":"商品ID ",
     "goodsname":"床",
     "mainPicSrc":"主图的路径",    
-    "pirce":420,
-    
+    "pirce":"420",
     "picsrc":["多个图片路径"],
-    "remain": "总库存",
-    "car":{
-        "color":[{"c1":"红","id":"11","imgurl":"xxx"},
-            {"c2":"绿","id":"12","imgurl":"xxx"}],
-        "size":[{"s1":"大"},{"s2":"小"}],
-        "remain": "总库存",
-        
-        "list":[
- 
-            {
-                "id":"商品ID ",
-                "pirce":420,
-                "color":"红",
-                "size":"大",
-                "stock_num":"15"
-            },
-            {
-                "id":"商品ID ",
-                "pirce":420,
-                "color":"红",
-                "size":"小",
-                "stock_num":"15"
-            },
-            {
-                "id":"商品ID ",
-                "pirce":420,
-                "color":"绿",
-                "size":"大",
-                "stock_num":"15"
-            },
-            {
-                "id":"商品ID ",
-                "pirce":420,
-                "color":"绿",
-                "size":"小",
-                "stock_num":"15"
-            }
-         ]
-    }
+    "remain":"总库存"
 }
