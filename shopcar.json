@@ -1,0 +1,11 @@
+{
+    "checkedGoods": [1],
+    "goods": [ {
+      "id": 1,
+      "title": "双人床",
+      "desc": "田园风",
+      "price": 1180000,
+      "num": 1,
+      "thumb": "http://nkjjq.cn/uploads/product/main_picture/5375771/normal_1.jpg"
+    }]
+  }
