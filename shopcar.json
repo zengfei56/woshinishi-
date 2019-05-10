@@ -1,5 +1,5 @@
 {
-    "checkedGoods": [1],
+    "checkedGoods": [1,2],
     "goods": [ {
       "id": 1,
       "title": "双人床",
@@ -7,5 +7,13 @@
       "price": 1180000,
       "num": 1,
       "thumb": "http://nkjjq.cn/uploads/product/main_picture/5375771/normal_1.jpg"
+    },
+     {
+      "id": 1,
+      "title": "儿童床",
+      "desc": "北欧风",
+      "price": 2080000,
+      "num": 3,
+      "thumb": "https://img.yzcdn.cn/public_files/2017/10/24/320454216bbe9e25c7651e1fa51b31fd.jpeg"
     }]
   }
