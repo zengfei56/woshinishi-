@@ -1,5 +1,5 @@
 {
-    "checkedGoods": [1,2,"all"],
+    "checkedGoods": ["1","2","all"],
     "goods": [ {
       "id": 1,
       "title": "双人床",
