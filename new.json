@@ -8,7 +8,7 @@
 			"width": 600,
 			"height": 200,
 			"picArr": [{
-				"src": "../static/TB2_IUgphSYBuNjSsphXXbGvVXa_!!1645612135.jpg"
+				"src": "/./huahua/static/TB2_IUgphSYBuNjSsphXXbGvVXa_!!1645612135.jpg"
 			}],
 			"size": ["150*50", "180*60", "200*70"]
 		},
@@ -19,7 +19,7 @@
 			"justify": "center",
 			"margin": "0 20rpx 0rpx 20rpx",
 			"picArr": [{
-					"src": "../static/5c1319f763945.jpg"
+					"src": "/./huahua/static/5c1319f763945.jpg"
 				},
 				{
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
