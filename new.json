@@ -8,7 +8,7 @@
 			"width": 600,
 			"height": 200,
 			"picArr": [{
-				"src": "http://192.168.1.109:8081/TB2_IUgphSYBuNjSsphXXbGvVXa_!!1645612135.jpg"
+				"src": "../../static/TB2_IUgphSYBuNjSsphXXbGvVXa_!!1645612135.jpg"
 			}],
 			"size": ["150*50", "180*60", "200*70"]
 		},
