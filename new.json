@@ -35,7 +35,7 @@
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
 				},
 				{
-					"src": "http://localhost:8081/5ce636f70e97a.jpg",
+					"src": "/./huahua/static/img/5ce636f70e97a.jpg",
 					"width": 300
 				},
 				{
@@ -56,7 +56,7 @@
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
 				},
 				{
-					"src": "http://localhost:8081/5ce636f70e97a.jpg"
+					"src": "/./huahua/static/img/5ce636f70e97a.jpg"
 				},
 				{
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
@@ -120,7 +120,7 @@
 					"top":"28rpx",
 					"WH": "60*80cm"
 				}, {
-					"src": "http://192.168.1.109:8081/5ce636f70e97a.jpg",
+					"src": "/./huahua/static/img/5ce636f70e97a.jpg",
 					"width": 56,
 					"height": 84,
 					"position": "absolute",
@@ -129,7 +129,7 @@
 					"WH": "30*40cm"
 				},
 				{
-					"src": "http://192.168.1.109:8081/timg.jpg",
+					"src": "/./huahua/static/img/timg.jpg",
 					"height": 84,
 					"width": 56,
 					"position": "absolute",
@@ -137,7 +137,7 @@
 					"top": "28rpx",
 					"WH": "30*40cm"
 				}, {
-					"src": "http://192.168.1.109:8081/timg4.jpg",
+					"src": "/./huahua/static/img/timg4.jpg",
 					"height": 54,
 					"width": 162,
 					"position": "absolute",
@@ -146,7 +146,7 @@
 					"WH": "70*30cm"
 				},
 				{
-					"src": "http://192.168.1.109:8081/xx4.jpg",
+					"src": "/./huahua/static/img/xx4.jpg",
 					"width": 141,
 					"height": 195,
 					"position": "absolute",
@@ -168,7 +168,7 @@
 					"top":"58rpx",
 					"WH": "30*40cm"
 				}, {
-					"src": "http://192.168.1.109:8081/5ce636f70e97a.jpg",
+					"src": "/./huahua/static/img/5ce636f70e97a.jpg",
 					"width": 101,
 					"height": 141,
 					"position": "absolute",
@@ -177,7 +177,7 @@
 					"WH": "25*35cm"
 				},
 				{
-					"src": "http://192.168.1.109:8081/xx4.jpg",
+					"src": "/./huahua/static/img/xx4.jpg",
 					"height": 58,
 					"width": 101,
 					"position": "absolute",
@@ -186,7 +186,7 @@
 					"WH": "25*15cm"
 				},
 				{
-					"src": "http://192.168.1.109:8081/timg.jpg",
+					"src": "/./huahua/static/img/timg.jpg",
 					"width": 165,
 					"height": 261,
 					"position": "absolute",
@@ -195,7 +195,7 @@
 					"WH": "40*60cm"
 				},
 				{
-					"src": "http://192.168.1.109:8081/5cc81c09f2044.jpg",
+					"src": "/./huahua/static/img/5cc81c09f2044.jpg",
 					"width": 117,
 					"height": 167,
 					"position": "absolute",
