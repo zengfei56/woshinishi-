@@ -8,7 +8,7 @@
 			"width": 600,
 			"height": 200,
 			"picArr": [{
-				"src": "/./huahua/static/img/TB2_IUgphSYBuNjSsphXXbGvVXa_!!1645612135.jpg"
+				"src": "https://blue1314.gitee.io/huahua/static/TB2_IUgphSYBuNjSsphXXbGvVXa_!!1645612135.jpg"
 			}],
 			"size": ["150*50", "180*60", "200*70"]
 		},
@@ -19,7 +19,7 @@
 			"justify": "center",
 			"margin": "0 20rpx 0rpx 20rpx",
 			"picArr": [{
-					"src": "/./huahua/static/img/5c1319f763945.jpg"
+					"src": "https://blue1314.gitee.io/huahua/static/5c1319f763945.jpg"
 				},
 				{
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
@@ -35,7 +35,7 @@
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
 				},
 				{
-					"src": "/./huahua/static/img/5ce636f70e97a.jpg",
+					"src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg",
 					"width": 300
 				},
 				{
@@ -56,7 +56,7 @@
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
 				},
 				{
-					"src": "/./huahua/static/img/5ce636f70e97a.jpg"
+					"src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg"
 				},
 				{
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
@@ -120,7 +120,7 @@
 					"top":"28rpx",
 					"WH": "60*80cm"
 				}, {
-					"src": "/./huahua/static/img/5ce636f70e97a.jpg",
+					"src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg",
 					"width": 56,
 					"height": 84,
 					"position": "absolute",
@@ -129,7 +129,7 @@
 					"WH": "30*40cm"
 				},
 				{
-					"src": "/./huahua/static/img/timg.jpg",
+					"src": "https://blue1314.gitee.io/huahua/static/timg.jpg",
 					"height": 84,
 					"width": 56,
 					"position": "absolute",
@@ -137,7 +137,7 @@
 					"top": "28rpx",
 					"WH": "30*40cm"
 				}, {
-					"src": "/./huahua/static/img/timg4.jpg",
+					"src": "https://blue1314.gitee.io/huahua/static/timg4.jpg",
 					"height": 54,
 					"width": 162,
 					"position": "absolute",
@@ -146,7 +146,7 @@
 					"WH": "70*30cm"
 				},
 				{
-					"src": "/./huahua/static/img/xx4.jpg",
+					"src": "https://blue1314.gitee.io/huahua/static/xx4.jpg",
 					"width": 141,
 					"height": 195,
 					"position": "absolute",
@@ -168,7 +168,7 @@
 					"top":"58rpx",
 					"WH": "30*40cm"
 				}, {
-					"src": "/./huahua/static/img/5ce636f70e97a.jpg",
+					"src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg",
 					"width": 101,
 					"height": 141,
 					"position": "absolute",
@@ -177,7 +177,7 @@
 					"WH": "25*35cm"
 				},
 				{
-					"src": "/./huahua/static/img/xx4.jpg",
+					"src": "https://blue1314.gitee.io/huahua/static/xx4.jpg",
 					"height": 58,
 					"width": 101,
 					"position": "absolute",
@@ -186,7 +186,7 @@
 					"WH": "25*15cm"
 				},
 				{
-					"src": "/./huahua/static/img/timg.jpg",
+					"src": "https://blue1314.gitee.io/huahua/static/timg.jpg",
 					"width": 165,
 					"height": 261,
 					"position": "absolute",
@@ -195,7 +195,7 @@
 					"WH": "40*60cm"
 				},
 				{
-					"src": "/./huahua/static/img/5cc81c09f2044.jpg",
+					"src": "https://blue1314.gitee.io/huahua/static/5cc81c09f2044.jpg",
 					"width": 117,
 					"height": 167,
 					"position": "absolute",
@@ -212,19 +212,19 @@
 
 	"border": [{
 			"name": "边框1",
-			"src": "url(/./huahua/static/img/timgfsf4.jpg) 97 80 round"
+			"src": "url(https://blue1314.gitee.io/huahua/static/timgfsf4.jpg) 97 80 round"
 		},
 		{
 			"name": "边框2",
-			"src": "url(/./huahua/static/img/timgxx.jpg) 97 80 round"
+			"src": "url(https://blue1314.gitee.io/huahua/static/timgxx.jpg) 97 80 round"
 		},
 		{
 			"name": "边框3",
-			"src": "url(/./huahua/static/img/timgjjkafj.jpg) 97 80 round"
+			"src": "url(https://blue1314.gitee.io/huahua/static/timgjjkafj.jpg) 97 80 round"
 		},
 		{
 			"name": "边框4",
-			"src": "url(/./huahua/static/img/timgR.jpg) 97 80 round"
+			"src": "url(https://blue1314.gitee.io/huahua/static/timgR.jpg) 97 80 round"
 		}
 
 	],
