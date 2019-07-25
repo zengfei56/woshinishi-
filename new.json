@@ -47,8 +47,8 @@
 
 		{
 			"name": "3幅中画B",
-			"width": 180,
-			"height": 250,
+			"width": 150,
+			"height": 220,
 			"picMargin": 0,
 			"algin": "center",
 			"jutify": "space-evenly",
