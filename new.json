@@ -48,7 +48,7 @@
 		{
 			"name": "3幅中画B",
 			"width": 180,
-			"height": 300,
+			"height": 250,
 			"picMargin": 0,
 			"algin": "center",
 			"jutify": "space-evenly",
@@ -86,8 +86,8 @@
 		},
 		{
 			"name": "4幅画B",
-			"width": 180,
-			"height": 150,
+			"width": 150,
+			"height": 120,
 			"justify": "center",
 			"picWidth": 520,
 			"picMargin": "-20rpx 0 0 0",
