@@ -111,6 +111,8 @@
 		},
 		{
 			"name": "5幅画A",
+	"mainTop":577,
+			"mainLeft":283,
 			"picArr": [{
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg",
 					"width": 141,
@@ -159,6 +161,8 @@
 		},
 		{
 			"name": "5幅画B",
+			"mainTop":577,
+			"mainLeft":283,
 			"picArr": [{
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg",
 					"width": 110,
