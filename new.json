@@ -92,6 +92,7 @@
 			"picWidth": 520,
 			"picMargin": "-20rpx 0 0 0",
 			"margin": "20rpx ",
+			"mainLeft":170,
 
 			"picArr": [{
 					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
