@@ -1,243 +1,261 @@
 {
 
-	"url": "http://127.0.0.1:8081/",
-	"name": "file",
-	"money": "100.00",
-	"catgory": [{
-			"name": "1幅大画",
-			"width": 600,
-			"height": 200,
-			"picArr": [{
-				"src": "https://blue1314.gitee.io/huahua/static/TB2_IUgphSYBuNjSsphXXbGvVXa_!!1645612135.jpg"
-			}],
-			"size": ["150*50", "180*60", "200*70"]
-			
-		},
-		{
-			"name": "2幅中画",
-			"width": 200,
-			"height": 200,
-			"justify": "center",
-			"margin": "0 20rpx 0rpx 20rpx",
-			"picArr": [{
-					"src": "https://blue1314.gitee.io/huahua/static/5c1319f763945.jpg"
-				},
-				{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				}
-			],
-			"size": ["40*40", "50*50", "60*60", "70*70", "80*80"]
-		},
-		{
-			"name": "3幅中画A",
-			"width": 100,
-			"height": 250,
-			"picArr": [{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				},
-				{
-					"src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg",
-					"width": 300
-				},
-				{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				}
-			],
-			"size": ["(左宽30+中宽60+右宽30）+高60", "（左宽40+中宽80+右宽40）+高80", "（左宽50+中宽100+右宽50）+高100"]
-		},
+    "url": "http://127.0.0.1:8081/",
+    "name": "file",
+    "money": "100.00",
+    "catgory": [{
+            "name": "1幅大画",
+            "width": 600,
+            "height": 200,
+            "picArr": [{
+                "src": "https://blue1314.gitee.io/huahua/static/TB2_IUgphSYBuNjSsphXXbGvVXa_!!1645612135.jpg"
+            }],
+            "size": ["150*50", "180*60", "200*70"],
+            "mairkSize": [
+                [{
+                    "w": 150,
+                    "h": 50
+                }],
+                [{
+                        "w": 180,
+                        "h": 60
+                    }
 
-		{
-			"name": "3幅中画B",
-			"width": 150,
-			"height": 220,
-			"picMargin": 0,
-			"algin": "center",
-			"jutify": "space-evenly",
-			"picArr": [{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				},
-				{
-					"src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg"
-				},
-				{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				}
-			],
-			"size": ["40*60", "50*70", "60*80", "60*90"]
-		},
-		{
-			"name": "4幅画A",
-			"width": 120,
-			"height": 120,
-			"picMargin": "80rpx 0 0 0",
-			"picArr": [{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				},
-				{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				},
-				{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				},
-				{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				}
-			],
-			"size":["50*50"]
-		},
-		{
-			"name": "4幅画B",
-			"width": 150,
-			"height": 120,
-			"justify": "center",
-			"picWidth": 520,
-			"picMargin": "-20rpx 0 0 0",
-			"margin": "20rpx ",
-			"mainLeft":170,
+                ],
+                [{
+                        "w": 200,
+                        "h": 70
+                    }
 
-			"picArr": [{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				},
-				{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                ]
+            ]
 
-				},
-				{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				},
-				{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
-				}
-			],
-			"size": ["30*40", "40*60", "50*70", "60*90", "70*100"]
-		},
-		{
-			"name": "5幅画A",
-	"mainTop":577,
-			"mainLeft":283,
-			"picArr": [{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg",
-					"width": 141,
-					"height": 195,
-					"position": "absolute",
-					"left": "73rpx",
-					"top":"28rpx",
-					"WH": "60*80cm"
-				}, {
-					"src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg",
-					"width": 56,
-					"height": 84,
-					"position": "absolute",
-					"left": "271rpx",
-					"top":"28rpx",
-					"WH": "30*40cm"
-				},
-				{
-					"src": "https://blue1314.gitee.io/huahua/static/timg.jpg",
-					"height": 84,
-					"width": 56,
-					"position": "absolute",
-					"left": "384rpx",
-					"top": "28rpx",
-					"WH": "30*40cm"
-				}, {
-					"src": "https://blue1314.gitee.io/huahua/static/timg4.jpg",
-					"height": 54,
-					"width": 162,
-					"position": "absolute",
-					"left": "273rpx",
-					"top": "169rpx",
-					"WH": "70*30cm"
-				},
-				{
-					"src": "https://blue1314.gitee.io/huahua/static/xx4.jpg",
-					"width": 141,
-					"height": 195,
-					"position": "absolute",
-					"left": "495rpx",
-					"top":"28rpx",
-					"WH": "60*80cm"
-				}
-			],
-			"size": ["大尺寸（总长约220cm*总高80cm）"]
-		},
-		{
-			"name": "5幅画B",
-			"mainTop":577,
-			"mainLeft":330,
-			"picArr": [{
-					"src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg",
-					"width": 110,
-					"height": 172,
-					"position": "absolute",
-					"left": "33rpx",
-					"top":"58rpx",
-					"WH": "30*40cm"
-				}, {
-					"src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg",
-					"width": 101,
-					"height": 141,
-					"position": "absolute",
-					"left": "190rpx",
-					"top": "21rpx",
-					"WH": "25*35cm"
-				},
-				{
-					"src": "https://blue1314.gitee.io/huahua/static/xx4.jpg",
-					"height": 58,
-					"width": 101,
-					"position": "absolute",
-					"left": "190rpx",
-					"top": "216rpx",
-					"WH": "25*15cm"
-				},
-				{
-					"src": "https://blue1314.gitee.io/huahua/static/timg.jpg",
-					"width": 165,
-					"height": 261,
-					"position": "absolute",
-					"left": "346rpx",
-					"top": "9rpx",
-					"WH": "40*60cm"
-				},
-				{
-					"src": "https://blue1314.gitee.io/huahua/static/5cc81c09f2044.jpg",
-					"width": 117,
-					"height": 167,
-					"position": "absolute",
-					"left": "575rpx",
-					"top":"58rpx",
-					"WH": "30*40cm"
-				}
-			],
-			"size": ["5幅套装"]
-		}
+        },
+        {
+            "name": "2幅中画",
+            "width": 200,
+            "height": 200,
+            "justify": "center",
+            "margin": "0 20rpx 0rpx 20rpx",
+            "picArr": [{
+                    "src": "https://blue1314.gitee.io/huahua/static/5c1319f763945.jpg"
+                },
+                {
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                }
+            ],
+            "size": ["40*40", "50*50", "60*60", "70*70", "80*80"]
+        },
+        {
+            "name": "3幅中画A",
+            "width": 100,
+            "height": 250,
+            "picArr": [{
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                },
+                {
+                    "src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg",
+                    "width": 300
+                },
+                {
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                }
+            ],
+            "size": ["(左宽30+中宽60+右宽30）+高60", "（左宽40+中宽80+右宽40）+高80", "（左宽50+中宽100+右宽50）+高100"]
+        },
+
+        {
+            "name": "3幅中画B",
+            "width": 150,
+            "height": 220,
+            "picMargin": 0,
+            "algin": "center",
+            "jutify": "space-evenly",
+            "picArr": [{
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                },
+                {
+                    "src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg"
+                },
+                {
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                }
+            ],
+            "size": ["40*60", "50*70", "60*80", "60*90"]
+        },
+        {
+            "name": "4幅画A",
+            "width": 120,
+            "height": 120,
+            "picMargin": "80rpx 0 0 0",
+            "picArr": [{
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                },
+                {
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                },
+                {
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                },
+                {
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                }
+            ],
+            "size": ["50*50"]
+        },
+        {
+            "name": "4幅画B",
+            "width": 150,
+            "height": 120,
+            "justify": "center",
+            "picWidth": 520,
+            "picMargin": "-20rpx 0 0 0",
+            "margin": "20rpx ",
+            "mainLeft": 170,
+
+            "picArr": [{
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                },
+                {
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+
+                },
+                {
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                },
+                {
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg"
+                }
+            ],
+            "size": ["30*40", "40*60", "50*70", "60*90", "70*100"]
+        },
+        {
+            "name": "5幅画A",
+            "mainTop": 577,
+            "mainLeft": 283,
+            "picArr": [{
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg",
+                    "width": 141,
+                    "height": 195,
+                    "position": "absolute",
+                    "left": "73rpx",
+                    "top": "28rpx",
+                    "WH": "60*80cm"
+                }, {
+                    "src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg",
+                    "width": 56,
+                    "height": 84,
+                    "position": "absolute",
+                    "left": "271rpx",
+                    "top": "28rpx",
+                    "WH": "30*40cm"
+                },
+                {
+                    "src": "https://blue1314.gitee.io/huahua/static/timg.jpg",
+                    "height": 84,
+                    "width": 56,
+                    "position": "absolute",
+                    "left": "384rpx",
+                    "top": "28rpx",
+                    "WH": "30*40cm"
+                }, {
+                    "src": "https://blue1314.gitee.io/huahua/static/timg4.jpg",
+                    "height": 54,
+                    "width": 162,
+                    "position": "absolute",
+                    "left": "273rpx",
+                    "top": "169rpx",
+                    "WH": "70*30cm"
+                },
+                {
+                    "src": "https://blue1314.gitee.io/huahua/static/xx4.jpg",
+                    "width": 141,
+                    "height": 195,
+                    "position": "absolute",
+                    "left": "495rpx",
+                    "top": "28rpx",
+                    "WH": "60*80cm"
+                }
+            ],
+            "size": ["大尺寸（总长约220cm*总高80cm）"]
+        },
+        {
+            "name": "5幅画B",
+            "mainTop": 577,
+            "mainLeft": 330,
+            "picArr": [{
+                    "src": "https://img.yzcdn.cn/public_files/2017/10/24/2f9a36046449dafb8608e99990b3c205.jpeg",
+                    "width": 110,
+                    "height": 172,
+                    "position": "absolute",
+                    "left": "33rpx",
+                    "top": "58rpx",
+                    "WH": "30*40cm"
+                }, {
+                    "src": "https://blue1314.gitee.io/huahua/static/5ce636f70e97a.jpg",
+                    "width": 101,
+                    "height": 141,
+                    "position": "absolute",
+                    "left": "190rpx",
+                    "top": "21rpx",
+                    "WH": "25*35cm"
+                },
+                {
+                    "src": "https://blue1314.gitee.io/huahua/static/xx4.jpg",
+                    "height": 58,
+                    "width": 101,
+                    "position": "absolute",
+                    "left": "190rpx",
+                    "top": "216rpx",
+                    "WH": "25*15cm"
+                },
+                {
+                    "src": "https://blue1314.gitee.io/huahua/static/timg.jpg",
+                    "width": 165,
+                    "height": 261,
+                    "position": "absolute",
+                    "left": "346rpx",
+                    "top": "9rpx",
+                    "WH": "40*60cm"
+                },
+                {
+                    "src": "https://blue1314.gitee.io/huahua/static/5cc81c09f2044.jpg",
+                    "width": 117,
+                    "height": 167,
+                    "position": "absolute",
+                    "left": "575rpx",
+                    "top": "58rpx",
+                    "WH": "30*40cm"
+                }
+            ],
+            "size": ["5幅套装"]
+        }
 
 
-	],
+    ],
 
-	"border": [{
-			"name": "边框1",
-			"src": "url(https://blue1314.gitee.io/huahua/static/timgfsf4.jpg) 97 80 round"
-		},
-		{
-			"name": "边框2",
-			"src": "url(https://blue1314.gitee.io/huahua/static/timgxx.jpg) 97 80 round"
-		},
-		{
-			"name": "边框3",
-			"src": "url(https://blue1314.gitee.io/huahua/static/timgjjkafj.jpg) 97 80 round"
-		},
-		{
-			"name": "边框4",
-			"src": "url(https://blue1314.gitee.io/huahua/static/timgR.jpg) 97 80 round"
-		}
+    "border": [{
+            "name": "边框1",
+            "src": "url(https://blue1314.gitee.io/huahua/static/timgfsf4.jpg) 97 80 round"
+        },
+        {
+            "name": "边框2",
+            "src": "url(https://blue1314.gitee.io/huahua/static/timgxx.jpg) 97 80 round"
+        },
+        {
+            "name": "边框3",
+            "src": "url(https://blue1314.gitee.io/huahua/static/timgjjkafj.jpg) 97 80 round"
+        },
+        {
+            "name": "边框4",
+            "src": "url(https://blue1314.gitee.io/huahua/static/timgR.jpg) 97 80 round"
+        }
 
-	],
-	"borderIndex": 0,
-	"sizeIndex": 0,
-	"selIndex": 0,
-	"boolShow": true,
-	"selected": ""
+    ],
+    "borderIndex": 0,
+    "sizeIndex": 0,
+    "selIndex": 0,
+    "boolShow": true,
+    "selected": ""
 
 }
