@@ -10,7 +10,12 @@
 			"picArr": [{
 				"src": "https://blue1314.gitee.io/huahua/static/TB2_IUgphSYBuNjSsphXXbGvVXa_!!1645612135.jpg"
 			}],
-			"size": ["150*50", "180*60", "200*70"]
+			"size": ["150*50", "180*60", "200*70"],
+			"markSize":[
+				[{"w":150 , "h":50}],
+				[{"w":180 , "h":60}],
+				[{"w":200 , "h":70}],
+			]
 		},
 		{
 			"name": "2幅中画",
