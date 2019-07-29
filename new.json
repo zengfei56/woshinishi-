@@ -322,7 +322,7 @@
                     "height": 172,
                     "position": "absolute",
                     "left": "33rpx",
-                    "top": "58rpx",
+                    "top": "35rpx",
                     "WH": "30*40cm"
                 }, {
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
@@ -330,7 +330,7 @@
                     "height": 141,
                     "position": "absolute",
                     "left": "190rpx",
-                    "top": "21rpx",
+                    "top": "-2rpx",
                     "WH": "25*35cm"
                 },
                 {
@@ -339,7 +339,7 @@
                     "width": 101,
                     "position": "absolute",
                     "left": "190rpx",
-                    "top": "216rpx",
+                    "top": "193rpx",
                     "WH": "25*15cm"
                 },
                 {
@@ -348,7 +348,7 @@
                     "height": 261,
                     "position": "absolute",
                     "left": "346rpx",
-                    "top": "9rpx",
+                    "top": "-14rpx",
                     "WH": "40*60cm"
                 },
                 {
@@ -357,7 +357,7 @@
                     "height": 167,
                     "position": "absolute",
                     "left": "575rpx",
-                    "top": "58rpx",
+                    "top": "35rpx",
                     "WH": "30*40cm"
                 }
             ],
