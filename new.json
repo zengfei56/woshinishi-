@@ -314,15 +314,14 @@
         },
         {
             "name": "5幅画B",
-            "mainTop": 577,
-            "mainLeft": 330,
+
             "picArr": [{
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
                     "width": 110,
                     "height": 172,
                     "position": "absolute",
                     "left": "33rpx",
-                    "top": "35rpx",
+                    "top": "7rpx",
                     "WH": "30*40cm"
                 }, {
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
@@ -330,7 +329,7 @@
                     "height": 141,
                     "position": "absolute",
                     "left": "190rpx",
-                    "top": "-2rpx",
+                    "top": "-30rpx",
                     "WH": "25*35cm"
                 },
                 {
@@ -339,7 +338,7 @@
                     "width": 101,
                     "position": "absolute",
                     "left": "190rpx",
-                    "top": "193rpx",
+                    "top": "165rpx",
                     "WH": "25*15cm"
                 },
                 {
@@ -348,7 +347,7 @@
                     "height": 261,
                     "position": "absolute",
                     "left": "346rpx",
-                    "top": "-14rpx",
+                    "top": "-42rpx",
                     "WH": "40*60cm"
                 },
                 {
@@ -357,7 +356,7 @@
                     "height": 167,
                     "position": "absolute",
                     "left": "575rpx",
-                    "top": "35rpx",
+                    "top": "7rpx",
                     "WH": "30*40cm"
                 }
             ],
