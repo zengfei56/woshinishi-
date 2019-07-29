@@ -70,14 +70,14 @@
         },
         {
             "name": "3幅中画A",
-            "width": 90,
-            "height": 240,
+            "width": 80,
+            "height": 230,
             "picArr": [{
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
                 },
                 {
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "width": 290
+                    "width": 280
                 },
                 {
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
