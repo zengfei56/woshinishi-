@@ -10,25 +10,8 @@
             "picArr": [{
                 "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
             }],
-            "size": ["150*50", "180*60", "200*70"],
-            "markSize": [
-                [{
-                    "w": 150,
-                    "h": 50
-                }],
-                [{
-                        "w": 180,
-                        "h": 60
-                    }
+            "size": ["150*50", "180*60", "200*70"]
 
-                ],
-                [{
-                        "w": 200,
-                        "h": 70
-                    }
-
-                ]
-            ]
 
         },
         {
@@ -44,88 +27,13 @@
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
                 }
             ],
-            "size": ["40*40", "50*50", "60*60", "70*70", "80*80"],
-            "markSize": [
-                [{
-                    "w": 40,
-                    "h": 40
-                }],
-                [{
-                    "w": 50,
-                    "h": 50
-                }],
-                [{
-                    "w": 60,
-                    "h": 60
-                }],
-                [{
-                    "w": 70,
-                    "h": 70
-                }],
-                [{
-                    "w": 80,
-                    "h": 80
-                }]
-            ]
-        },
-        {
-            "name": "3幅中画A",
-            "width": 80,
-            "height": 230,
-            "picArr": [{
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "width": 280
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-                }
-            ],
-            "size": ["(左宽30+中宽60+右宽30）+高60", "（左宽40+中宽80+右宽40）+高80", "（左宽50+中宽100+右宽50）+高100"],
-            "markSize": [
-                [{
-                        "w": 30,
-                        "h": 60
-                    },
-                    {
-                        "w": 60,
-                        "h": 60
-                    }, {
-                        "w": 30,
-                        "h": 60
-                    }
-                ],
-                [{
-                        "w": 40,
-                        "h": 80
-                    },
-                    {
-                        "w": 80,
-                        "h": 80
-                    }, {
-                        "w": 40,
-                        "h": 80
-                    }
-                ],
-                [{
-                        "w": 50,
-                        "h": 100
-                    },
-                    {
-                        "w": 100,
-                        "h": 100
-                    }, {
-                        "w": 50,
-                        "h": 100
-                    }
-                ]
-            ]
+            "size": ["40*40", "50*50", "60*60", "70*70", "80*80"]
+
         },
 
+
         {
-            "name": "3幅中画B",
+            "name": "3幅中画",
             "width": 150,
             "height": 220,
             "picMargin": 0,
@@ -141,62 +49,12 @@
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
                 }
             ],
-            "size": ["40*60", "50*70", "60*80", "70*90"],
-            "markSize": [
-                [{
-                        "w": 40,
-                        "h": 60
-                    }
+            "size": ["40*60", "50*70", "60*80", "70*90"]
 
-                ],
-                [{
-                        "w": 50,
-                        "h": 70
-                    }
-
-                ],
-                [{
-                        "w": 60,
-                        "h": 80
-                    }
-
-                ],
-                [{
-                        "w": 70,
-                        "h": 90
-                    }
-
-                ]
-            ]
         },
+
         {
-            "name": "4幅画A",
-            "width": 120,
-            "height": 120,
-            "picMargin": "80rpx 0 0 0",
-            "picArr": [{
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-                }
-            ],
-            "size": ["50*50"],
-            "markSize": [
-                [{
-                    "w": 50,
-                    "h": 50
-                }]
-            ]
-        },
-        {
-            "name": "4幅画B",
+            "name": "4幅画",
             "width": 150,
             "height": 120,
             "justify": "center",
@@ -219,168 +77,8 @@
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
                 }
             ],
-            "size": ["30*40", "40*60", "50*70", "60*90", "70*100"],
-            "markSize": [
-                [{
-                    "w": 30,
-                    "h": 40
-                }],
-                [{
-                    "w": 40,
-                    "h": 60
-                }],
-                [{
-                    "w": 50,
-                    "h": 70
-                }],
-                [{
-                    "w": 60,
-                    "h": 90
-                }],
-                [{
-                    "w": 70,
-                    "h": 100
-                }]
-
-            ]
-        },
-        {
-            "name": "5幅画A",
-
-            "picArr": [{
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "width": 141,
-                    "height": 195,
-                    "position": "absolute",
-                    "left": "73rpx",
-                    "top": "28rpx",
-                    "WH": "60*80cm"
-                }, {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "width": 56,
-                    "height": 84,
-                    "position": "absolute",
-                    "left": "271rpx",
-                    "top": "28rpx",
-                    "WH": "30*40cm"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "height": 84,
-                    "width": 56,
-                    "position": "absolute",
-                    "left": "384rpx",
-                    "top": "28rpx",
-                    "WH": "30*40cm"
-                }, {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "height": 54,
-                    "width": 162,
-                    "position": "absolute",
-                    "left": "273rpx",
-                    "top": "169rpx",
-                    "WH": "70*30cm"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "width": 141,
-                    "height": 195,
-                    "position": "absolute",
-                    "left": "495rpx",
-                    "top": "28rpx",
-                    "WH": "60*80cm"
-                }
-            ],
-            "size": ["大尺寸（总长约220cm*总高80cm）"],
-            "markSize": [
-                [{
-                    "w": 60,
-                    "h": 80
-                }, {
-                    "w": 30,
-                    "h": 40
-                }, {
-                    "w": 30,
-                    "h": 40
-                }, {
-                    "w": 70,
-                    "h": 30
-                }, {
-                    "w": 60,
-                    "h": 80
-                }]
-            ]
-        },
-        {
-            "name": "5幅画B",
-
-            "picArr": [{
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "width": 110,
-                    "height": 172,
-                    "position": "absolute",
-                    "left": "33rpx",
-                    "top": "7rpx",
-                    "WH": "30*40cm"
-                }, {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "width": 101,
-                    "height": 141,
-                    "position": "absolute",
-                    "left": "190rpx",
-                    "top": "-30rpx",
-                    "WH": "25*35cm"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "height": 58,
-                    "width": 101,
-                    "position": "absolute",
-                    "left": "190rpx",
-                    "top": "165rpx",
-                    "WH": "25*15cm"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "width": 165,
-                    "height": 261,
-                    "position": "absolute",
-                    "left": "346rpx",
-                    "top": "-42rpx",
-                    "WH": "40*60cm"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg",
-                    "width": 117,
-                    "height": 167,
-                    "position": "absolute",
-                    "left": "575rpx",
-                    "top": "7rpx",
-                    "WH": "30*40cm"
-                }
-            ],
-            "size": ["5幅套装"],
-            "markSize": [
-                [{
-                    "w": 30,
-                    "h": 40
-                }, {
-                    "w": 25,
-                    "h": 35
-                }, {
-                    "w": 25,
-                    "h": 15
-                }, {
-                    "w": 40,
-                    "h": 60
-                }, {
-                    "w": 30,
-                    "h": 40
-                }]
-            ]
+            "size": ["30*40", "40*60", "50*70", "60*90", "70*100"]
         }
-
-
     ],
 
     "border": [{
