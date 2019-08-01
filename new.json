@@ -5,7 +5,7 @@
     "money": "100.00",
     "catgory": [{
             "name": "1幅大画",
-            "width": 600,
+            "width": 511,
             "height": 200,
             "picArr": [{
                 "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
