@@ -39,6 +39,7 @@
             "picMargin": 0,
             "algin": "center",
             "jutify": "space-evenly",
+            "mainTop":420,
             "picArr": [{
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
                 },
