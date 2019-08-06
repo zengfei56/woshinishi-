@@ -90,34 +90,9 @@
                 "h": 250
             }]
 
-        },
+        }
 
-        // {
-        //     "name": "4幅画",
-        //     "width": 150,
-        //     "height": 120,
-        //     "justify": "center",
-        //     "picWidth": 520,
-        //     "picMargin": "-20rpx 0 0 0",
-        //     "margin": "20rpx ",
-        //     "mainLeft": 170,
 
-        //     "picArr": [{
-        //             "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-        //         },
-        //         {
-        //             "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-
-        //         },
-        //         {
-        //             "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-        //         },
-        //         {
-        //             "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-        //         }
-        //     ],
-        //     "size": ["30*40", "40*60", "50*70", "60*90", "70*100"]
-        // }
     ],
 
     "border": [{
