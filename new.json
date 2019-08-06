@@ -3,7 +3,7 @@
     "url": "http://127.0.0.1:8081/",
     "name": "file",
     "money": "100.00",
-"mainTop":566,
+    "mainTop": 566,
     "catgory": [{
             "name": "1幅大画",
             "width": 504,
@@ -11,7 +11,17 @@
             "picArr": [{
                 "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
             }],
-            "size": ["150*50", "180*60", "200*70"]
+            "size": ["150*50", "180*60", "200*70"],
+            "viewSize": [{
+                "w": 504,
+                "h": 200
+            }, {
+                "w": 534,
+                "h": 210
+            }, {
+                "w": 554,
+                "h": 220
+            }]
 
 
         },
@@ -21,7 +31,7 @@
             "height": 200,
             "justify": "center",
             "margin": "0 20rpx 0rpx 20rpx",
-"mainTop":566,
+            "mainTop": 566,
             "picArr": [{
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
                 },
@@ -41,7 +51,7 @@
             "picMargin": 0,
             "algin": "center",
             "jutify": "space-evenly",
-            "mainTop":554,
+            "mainTop": 554,
             "picArr": [{
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
                 },
