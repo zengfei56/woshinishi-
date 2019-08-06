@@ -23,7 +23,14 @@
             }],
 
             "imgList": [
-                []
+                [
+                    "http://blue1314.gitee.io/huahua/static/category1/O1CN01IjFzEh1wzAdKgCEAd_!!750576378_05.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category1/O1CN01XU9VOi1wzAdKKXXDf_!!750576378_02.jpg"
+                ],
+                [
+                    "http://blue1314.gitee.io/huahua/static/category1/TB2HojseRDH8KJjSspnXXbNAVXa_!!1679612755_05.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category1/TB2HojseRDH8KJjSspnXXbNAVXa_!!1679612755_11.jpg"
+                ]
             ],
 
             "picCatergory": [{
@@ -67,7 +74,14 @@
                 "h": 240
             }],
             "imgList": [
-                []
+                [
+                    "http://blue1314.gitee.io/huahua/static/category2/TB2dLKbdiCYBuNkSnaVXXcMsVXa_!!2104775987_07.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category2/TB2dLKbdiCYBuNkSnaVXXcMsVXa_!!2104775987_09.jpg"
+                ],
+                [
+                    "http://blue1314.gitee.io/huahua/static/category2/TB2f.PVlv1TBuNjy0FjXXajyXXa_!!2104775987_09.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category2/TB2f.PVlv1TBuNjy0FjXXajyXXa_!!2104775987_13.jpg"
+                ]
             ],
 
             "picCatergory": [{
@@ -113,7 +127,31 @@
                 "h": 260
             }],
             "imgList": [
-                []
+                [
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_09.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_11.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_13.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_15.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_17.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_19.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_21.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_23.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_25.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_41.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_43.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_45.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_47.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_49.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/O1CN01nr2xHs1JsyGsCTmKR_!!1675711085_51.jpg"
+                ],
+                [
+                    "http://blue1314.gitee.io/huahua/static/category3/TB2uex2fmCWBuNjy0FhXXb6EVXa_!!2068607660_09.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/TB2uex2fmCWBuNjy0FhXXb6EVXa_!!2068607660_11.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/TB2uex2fmCWBuNjy0FhXXb6EVXa_!!2068607660_13.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/TB2uex2fmCWBuNjy0FhXXb6EVXa_!!2068607660_23.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/TB2uex2fmCWBuNjy0FhXXb6EVXa_!!2068607660_25.jpg",
+                    "http://blue1314.gitee.io/huahua/static/category3/TB2uex2fmCWBuNjy0FhXXb6EVXa_!!2068607660_27.jpg"
+                ]
             ],
 
             "picCatergory": [{
