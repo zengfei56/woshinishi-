@@ -6,8 +6,7 @@
     "mainTop": 566,
     "catgory": [{
             "name": "1幅大画",
-            "width": 504,
-            "height": 200,
+
             "picArr": [{
                 "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
             }],
@@ -27,8 +26,7 @@
         },
         {
             "name": "2幅中画",
-            "width": 200,
-            "height": 200,
+
             "justify": "center",
             "margin": "0 20rpx 0rpx 20rpx",
             "mainTop": 566,
@@ -39,15 +37,30 @@
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
                 }
             ],
-            "size": ["40*40", "50*50", "60*60", "70*70", "80*80"]
+            "size": ["40*40", "50*50", "60*60", "70*70", "80*80"],
+            "viewSize": [{
+                "w": 200,
+                "h": 200
+            }, {
+                "w": 210,
+                "h": 210
+            }, {
+                "w": 220,
+                "h": 220
+            }, {
+                "w": 230,
+                "h": 230
+            }, {
+                "w": 240,
+                "h": 240
+            }]
 
         },
 
 
         {
             "name": "3幅中画",
-            "width": 150,
-            "height": 220,
+
             "picMargin": 0,
             "algin": "center",
             "jutify": "space-evenly",
@@ -62,36 +75,49 @@
                     "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
                 }
             ],
-            "size": ["40*60", "50*70", "60*80", "70*90"]
+            "size": ["40*60", "50*70", "60*80", "70*90"],
+            "viewSize": [{
+                "w": 150,
+                "h": 220
+            }, {
+                "w": 160,
+                "h": 230
+            }, {
+                "w": 170,
+                "h": 240
+            }, {
+                "w": 180,
+                "h": 250
+            }]
 
         },
 
-        {
-            "name": "4幅画",
-            "width": 150,
-            "height": 120,
-            "justify": "center",
-            "picWidth": 520,
-            "picMargin": "-20rpx 0 0 0",
-            "margin": "20rpx ",
-            "mainLeft": 170,
+        // {
+        //     "name": "4幅画",
+        //     "width": 150,
+        //     "height": 120,
+        //     "justify": "center",
+        //     "picWidth": 520,
+        //     "picMargin": "-20rpx 0 0 0",
+        //     "margin": "20rpx ",
+        //     "mainLeft": 170,
 
-            "picArr": [{
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
+        //     "picArr": [{
+        //             "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
+        //         },
+        //         {
+        //             "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
 
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-                },
-                {
-                    "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
-                }
-            ],
-            "size": ["30*40", "40*60", "50*70", "60*90", "70*100"]
-        }
+        //         },
+        //         {
+        //             "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
+        //         },
+        //         {
+        //             "src": "http://blue1314.gitee.io/huahua/static/muban.jpg"
+        //         }
+        //     ],
+        //     "size": ["30*40", "40*60", "50*70", "60*90", "70*100"]
+        // }
     ],
 
     "border": [{
