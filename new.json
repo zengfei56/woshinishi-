@@ -168,19 +168,19 @@
     ],
 
     "border": [{
-            "name": "边框1",
+            "name": "原木框",
             "src": "url(https://blue1314.gitee.io/huahua/static/timgfsf4.jpg) 97 80 round"
         },
         {
-            "name": "边框2",
+            "name": "金属框",
             "src": "url(https://blue1314.gitee.io/huahua/static/timgxx.jpg) 97 80 round"
         },
         {
-            "name": "边框3",
+            "name": "蓝色框",
             "src": "url(https://blue1314.gitee.io/huahua/static/timgjjkafj.jpg) 97 80 round"
         },
         {
-            "name": "边框4",
+            "name": "白色框",
             "src": "url(https://blue1314.gitee.io/huahua/static/timgR.jpg) 97 80 round"
         }
 
