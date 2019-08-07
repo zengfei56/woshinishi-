@@ -101,6 +101,17 @@
                     "https://gitee.com/blue1314/huahua/raw/master/static/category2/O1CN01mMZeuD1XZeAFn1NoL_!!4077192938_13.jpg"
                 ],
                 [
+                    "https://gitee.com/blue1314/huahua/raw/master/static/category2/TB2bAcFepOP.eBjSZFHXXXQnpXa_!!1763635427_07.jpg",
+                    "https://gitee.com/blue1314/huahua/raw/master/static/category2/TB2bAcFepOP.eBjSZFHXXXQnpXa_!!1763635427_09.jpg",
+                    "https://gitee.com/blue1314/huahua/raw/master/static/category2/TB2COgGdIeJ.eBjy0FiXXXqapXa_!!1763635427_07.jpg",
+                    "https://gitee.com/blue1314/huahua/raw/master/static/category2/TB2COgGdIeJ.eBjy0FiXXXqapXa_!!1763635427_09.jpg",
+                    "https://gitee.com/blue1314/huahua/raw/master/static/category2/TB2cTCAeICO.eBjSZFzXXaRiVXa_!!1763635427_07.jpg",
+                    "https://gitee.com/blue1314/huahua/raw/master/static/category2/TB2cTCAeICO.eBjSZFzXXaRiVXa_!!1763635427_09.jpg",
+                    "https://gitee.com/blue1314/huahua/raw/master/static/category2/TB2J3OgeOGO.eBjSZFpXXb3tFXa_!!1763635427_07.jpg",
+                    "https://gitee.com/blue1314/huahua/raw/master/static/category2/TB2J3OgeOGO.eBjSZFpXXb3tFXa_!!1763635427_09.jpg"
+
+                ],
+                [
                     "https://gitee.com/blue1314/huahua/raw/master/static/category2/O1CN01J3wJWS1XZeAhgqZPU_!!4077192938_07.jpg",
                     "https://gitee.com/blue1314/huahua/raw/master/static/category2/O1CN01J3wJWS1XZeAhgqZPU_!!4077192938_11.jpg",
                     "https://gitee.com/blue1314/huahua/raw/master/static/category2/O1CN01j43wty1XZeAkDPQEz_!!4077192938_09.jpg",
@@ -120,8 +131,11 @@
                 "title": "绿植",
                 "id": "3"
             }, {
-                "title": "其他",
+                "title": "黑白",
                 "id": "4"
+            }, {
+                "title": "其他",
+                "id": "5"
             }]
 
         },
